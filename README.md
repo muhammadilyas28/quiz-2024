@@ -1,2 +1,11 @@
-# quiz-2024
-Quiz for github
+# Title of the Project
+
+### Details for the projects 
+
+- a
+- b
+- c
+  
+```javascript
+console.log("code for javascript")
+```
